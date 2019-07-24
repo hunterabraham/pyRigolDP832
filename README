@@ -1,3 +1,8 @@
 README RigolDP832
 
 Class to remotely control Rigol DP832 Programmable DC Power Supply
+
+
+git clone https://github.com/hunterabraham/pyRigolDP832
+cd pyRigolDP832
+python -m pip install -e .
