@@ -45,5 +45,7 @@ Apply ocp setting
 
 # Usage
 `git clone https://github.com/hunterabraham/pyRigolDP832`
+\n
 `cd pyRigolDP832`
+\n
 `python -m pip install -e .`
